@@ -1,44 +1,12 @@
+http://tecnotv.club/nov4/sport.php?c=adrenalina&k=tecno&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AFIZZIONADOS
+http://tecnotv.club/nov4/sport.php?c=afizzionados&k=tecno&f=.m3u8
 
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="RCNHD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title="NACIONALES",RCN HD
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zc5rpjFwBCMmniEZWZuAeh0)/dm/3/x7vyv0z/s/live-1.m3u8
-#EXTINF:-1 tvg-id="CaracolAhora" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/a0f497e/2147483647/strip/true/crop/886x886+0+0/resize/886x886!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F80%2F6b%2F44023b1240388f60bbd70bc20047%2Flogo-caracol-tv-corporativo-2017-fondo-blanco-rgb.jpg" group-title="NACIONALES",CARACOL AHORA
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="SeñalColombia" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="NACIONALES",SEÑAL COLOMBIA
-https://geostreaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="CanalInstitucional" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="NACIONALES",CANAL INSTITUCIONAL
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b500000.m3u8
-#EXTINF:-1 tvg-id="CaracolHD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/a0f497e/2147483647/strip/true/crop/886x886+0+0/resize/886x886!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F80%2F6b%2F44023b1240388f60bbd70bc20047%2Flogo-caracol-tv-corporativo-2017-fondo-blanco-rgb.jpg" group-title="NACIONALES",CARACOL HD MOVIL
-http://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-
-
-http://tecnotv.club/nov4/sport.php?c=nbcsn&k=tecno&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",WIN SPORTS
 http://tecnotv.club/nov4/sport.php?c=winsports&k=tecno&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",WIN SPORTS PLUS
-http://tecnotv.club/nov4/sport.php?c=winplus&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",AZTECA UNO MX
-http://tecnotv.club/nov4/sport.php?c=aztecauno&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",CANAL 2 MX
-http://tecnotv.club/nov4/sport.php?c=eldos&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",CANAL 5 MX
 http://tecnotv.club/nov4/sport.php?c=elcinco&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",AZTECA 7 MX
-http://tecnotv.club/nov4/sport.php?c=azteca7&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",NUEVE
-http://tecnotv.club/nov4/sport.php?c=elnueve&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",IMAGEN TV
-http://tecnotv.club/nov4/sport.php?c=imagentv&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",STAR ACTION
-http://tecnotv.club/nov4/sport.php?c=staraction&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPACE
-http://tecnotv.club/nov4/sport.php?c=space&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ADRENALINA
-http://tecnotv.club/nov4/sport.php?c=adrenalina&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",AFIZZIONADOS
-http://tecnotv.club/nov4/sport.php?c=afizzionados&k=tecno&f=.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",AyM Sports
 http://tecnotv.club/nov4/sport.php?c=aymsports&k=tecno&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",BASKET AMERICAS
@@ -53,13 +21,9 @@ http://tecnotv.club/nov4/sport.php?c=directv&k=tecno&f=.m3u8
 http://tecnotv.club/nov4/sport.php?c=directv2&k=tecno&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
 http://tecnotv.club/nov4/sport.php?c=clarosports&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN Deportes
-http://tecnotv.club/nov4/sport.php?c=espndep&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 1 MX
-http://tecnotv.club/nov4/sport.php?c=espn1-mx&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 MX
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 
 http://tecnotv.club/nov4/sport.php?c=espn2-mx&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 MX
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 
 http://tecnotv.club/nov4/sport.php?c=espn3-mx&k=tecno&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN EXTRA
 http://tecnotv.club/nov4/sport.php?c=espnextra-mx&k=tecno&f=.m3u8
@@ -118,8 +82,6 @@ http://tecnotv.club/nov4/sport.php?c=wwe&k=tecno&f=.m3u8
 
 #EXTINF:-1 tvg-id="Telecaribe.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i5wyEor.png" group-title="REGIONALES",Telecaribe (720p)
 https://iptv-all.lanesh4d0w.codes/colombia/telecaribe_adaptive
-#EXTINF:-1 tvg-id="EnlaceTelevision.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="REGIONALES",Enlace Televisión (720p)
-http://iptv-all.lanesh4d0w.codes/colombia/enlace.m3u8
 #EXTINF:-1 tvg-id="135" tvg-name="TelePacífico" tvg-logo="https://www.m3u.cl/logo/135_Telepacifico.png" group-title="REGIONALES",Telepacífico | CO
 http://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="115" tvg-name="Canal Capital" tvg-logo="https://www.m3u.cl/logo/115_Canal_Capital.png" group-title="REGIONALES",Canal Capital | CO
