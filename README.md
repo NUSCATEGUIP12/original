@@ -1,3 +1,5 @@
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RCNHD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title="NACIONALES",RCN HD
@@ -110,6 +112,21 @@ http://tecnotv.club/nov4/sport.php?c=ufc&k=tecno&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",WWE
 http://tecnotv.club/nov4/sport.php?c=wwe&k=tecno&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD9
 
 
 #EXTINF:-1 tvg-id="Telecaribe.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i5wyEor.png" group-title="REGIONALES",Telecaribe (720p)
