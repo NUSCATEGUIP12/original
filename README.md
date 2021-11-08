@@ -1,3 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RCNHD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title="NACIONALES",RCN HD
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zc5rpjFwBCMmniEZWZuAeh0)/dm/3/x7vyv0z/s/live-1.m3u8
+#EXTINF:-1 tvg-id="CaracolAhora" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/a0f497e/2147483647/strip/true/crop/886x886+0+0/resize/886x886!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F80%2F6b%2F44023b1240388f60bbd70bc20047%2Flogo-caracol-tv-corporativo-2017-fondo-blanco-rgb.jpg" group-title="NACIONALES",CARACOL AHORA
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="SeñalColombia" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="NACIONALES",SEÑAL COLOMBIA
+https://geostreaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="NACIONALES",CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b500000.m3u8
+#EXTINF:-1 tvg-id="CaracolHD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/a0f497e/2147483647/strip/true/crop/886x886+0+0/resize/886x886!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F80%2F6b%2F44023b1240388f60bbd70bc20047%2Flogo-caracol-tv-corporativo-2017-fondo-blanco-rgb.jpg" group-title="NACIONALES",CARACOL HD MOVIL
+http://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-id="CaracolSD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/a0f497e/2147483647/strip/true/crop/886x886+0+0/resize/886x886!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F80%2F6b%2F44023b1240388f60bbd70bc20047%2Flogo-caracol-tv-corporativo-2017-fondo-blanco-rgb.jpg" group-title="NACIONALES",CARACOL SD
+http://tvgolatino.com:25461/live/esq9h2zGeSNp/PuXmKeJ5b2ZL/15106.m3u8
+#EXTINF:-1 group-title="NACIONALES",Canal Uno SD
+http://tvgolatino.com:25461/live/esq9h2zGeSNp/PuXmKeJ5b2ZL/65064.m3u8
+
+#EXTINF:-1 group-title="DEPORTES COLOMBIA",DIRECTV SPORT 1
+http://tvgolatino.com:25461/live/esq9h2zGeSNp/PuXmKeJ5b2ZL/1918.m3u8
+#EXTINF:-1 group-title="DEPORTES COLOMBIA",DIRECTV SPORT 2
+http://tvgolatino.com:25461/live/esq9h2zGeSNp/PuXmKeJ5b2ZL/1919.m3u8
+#EXTINF:-1 group-title="DEPORTES COLOMBIA",DIRECTV SPORT PLUS
+http://tvgolatino.com:25461/live/esq9h2zGeSNp/PuXmKeJ5b2ZL/1920.m3u8
+
+
+#EXTINF:-1 group-title="MEXICO",CANAL 2 MX
+http://tecnotv.club/nov4/sport.php?c=eldos&k=tecno&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7 MX
+http://tecnotv.club/nov4/sport.php?c=azteca7&k=tecno&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",SPACE
+http://tecnotv.club/nov4/sport.php?c=space&k=tecno&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",ADRENALINA
 http://tecnotv.club/nov4/sport.php?c=adrenalina&k=tecno&f=.m3u8
 #EXTINF:-1 group-title="MEXICO",AFIZZIONADOS
 http://tecnotv.club/nov4/sport.php?c=afizzionados&k=tecno&f=.m3u8
@@ -138,4 +170,3 @@ http://cdnhd.iblups.com/hls/ptv2.m3u8
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Anime",Locomotion TV (480p) [Not 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
-
